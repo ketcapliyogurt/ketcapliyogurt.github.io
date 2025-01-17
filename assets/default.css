@@ -9,7 +9,7 @@ a {color: #36C;}
 a:hover {color: #06F;}
 
 body {
-	background: #4E5D3C url(img/bg.jpg);
+	background: #4E5D3C url(assets/img/bg.jpg);
 	color: #444;
 	font: normal 62.5% "Lucida Sans Unicode",sans-serif;
 	margin: 0;
@@ -27,7 +27,7 @@ h2 {
 ul {margin-left: 1.8em;}
 
 blockquote {
-	background: url(img/quote.gif) no-repeat;
+	background: url(assets/img/quote.gif) no-repeat;
 	color: #555;
 	font: normal 1.4em serif;
 	padding-left: 22px;
@@ -45,20 +45,20 @@ blockquote p {padding: 6px;}
 img.left {margin: 0 18px 6px 0;}
 
 .divider {
-	background: url(img/divider.gif) no-repeat;
+	background: url(assets/img/divider.gif) no-repeat;
 	height: 20px;
 	margin: 24px 0;
 }
 
 /* structure */
 .container {
-	background: url(img/bgcontainer.jpg) repeat-y center top;
+	background: url(assets/img/bgcontainer.jpg) repeat-y center top;
 	margin: 0 auto;
 	width: 736px;
 }
 
 .gfx {
-	background: url(img/gfx.jpg) no-repeat;
+	background: url(assets/img/gfx.jpg) no-repeat;
 	float: left;
 	height: 140px;
 	margin-top: 12px;
@@ -66,14 +66,14 @@ img.left {margin: 0 18px 6px 0;}
 }
 
 .top {
-	background: url(img/bgcontent.gif) no-repeat 0 -4%;
+	background: url(assets/img/bgcontent.gif) no-repeat 0 -4%;
 	float: left;
 	text-align: center;
 	width: 632px;
 }
 
 .header {
-	background: #56644A url(img/header.jpg) no-repeat;
+	background: #56644A url(assets/img/header.jpg) no-repeat;
 	color: #FFC;
 	font-size: 1.4em;
 	height: 232px;
@@ -86,7 +86,7 @@ img.left {margin: 0 18px 6px 0;}
 }
 
 .pattern {
-	background: #334127 url(img/pattern.gif) repeat-x;
+	background: #334127 url(assets/img/pattern.gif) repeat-x;
 	clear: both;
 	height: 12px;
 }
@@ -107,7 +107,7 @@ img.left {margin: 0 18px 6px 0;}
 
 /* content */
 .content {
-	background: url(img/bgcontent.gif) no-repeat;
+	background: url(assets/img/bgcontent.gif) no-repeat;
 	clear: both;
 	font-size: 1.2em;
 	margin: 0 52px;
